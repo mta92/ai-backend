@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pytesseract
+opencv-python
+psycopg2-binary
+gunicorn
